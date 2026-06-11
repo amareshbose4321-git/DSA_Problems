@@ -1,0 +1,24 @@
+
+DSA problems
+------------------------------------------------------------
+
+--------------------
+Two Pointer:
+--------------------
+1. Two Sum (Easy) - [LeetCode]
+2. Remove Duplicates from Sorted Array (Easy) - [LeetCode]
+3. Two Sum II (Easy) - Input Array Is Sorted [LeetCode]
+4. Move Zeroes (Easy) - (LeetCode)
+5. Segregate 0s and 1s (Easy) - (Geeks For Geeks)
+6. Squares of a Sorted Array (Easy) - [LeetCode]
+7. 3Sum (Medium) - [LeetCode]
+8. 3Sum Closest (Medium) - [LeetCode]
+9. Triplets with Smaller Sum (Medium) - [LeetCode]
+10. Sort Colors(Dutch National Flag) (Medium) - (Geeks For Geeks)
+
+--------------------
+Sliding Window:
+--------------------
+
+
+
