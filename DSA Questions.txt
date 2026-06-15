@@ -9,16 +9,22 @@ Two Pointer:
 2. Remove Duplicates from Sorted Array (Easy) - [LeetCode]
 3. Two Sum II (Easy) - Input Array Is Sorted [LeetCode]
 4. Move Zeroes (Easy) - (LeetCode)
-5. Segregate 0s and 1s (Easy) - (Geeks For Geeks)
+5. Segregate 0s and 1s (Easy) - [Geeks For Geeks]
 6. Squares of a Sorted Array (Easy) - [LeetCode]
 7. 3Sum (Medium) - [LeetCode]
 8. 3Sum Closest (Medium) - [LeetCode]
 9. Triplets with Smaller Sum (Medium) - [LeetCode]
-10. Sort Colors(Dutch National Flag) (Medium) - (Geeks For Geeks)
+10. Sort Colors(Dutch National Flag) (Medium) - [Geeks For Geeks]
+
 
 --------------------
 Sliding Window:
 --------------------
-
-
+1. Maximum Sum Subarray of Size K (easy) - [Geeks For Geeks]
+2. Smallest Subarray with a given sum (easy) - [LeetCode]
+3. Longest Substring with K Uniques (medium) - [Geeks For Geeks]
+4. Fruits into Baskets (medium) - [LeetCode]
+5. No-repeat Substring (medium) - [LeetCode]
+6. Longest Substring with Same Letters after Replacement (medium) - [LeetCode]
+7. Longest Subarray with Ones after Replacement (medium) - [LeetCode]
 
