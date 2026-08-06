@@ -1,10 +1,10 @@
 
-DSA problems
+# DSA problems
 ------------------------------------------------------------
 
---------------------
-Two Pointer:
---------------------
+-------------------------
+Two Pointer and HashMap:
+-------------------------
 1. Two Sum (Easy) - [LeetCode]
 2. Remove Duplicates from Sorted Array (Easy) - [LeetCode]
 3. Two Sum II (Easy) - Input Array Is Sorted [LeetCode]
@@ -17,9 +17,9 @@ Two Pointer:
 10. Sort Colors(Dutch National Flag) (Medium) - [Geeks For Geeks]
 
 
---------------------
-Sliding Window:
---------------------
+---------------------------
+Sliding Window and HashMap:
+---------------------------
 1. Maximum Sum Subarray of Size K (easy) - [Geeks For Geeks]
 2. Smallest Subarray with a given sum (easy) - [LeetCode]
 3. Longest Substring with K Uniques (medium) - [Geeks For Geeks]
@@ -27,4 +27,9 @@ Sliding Window:
 5. No-repeat Substring (medium) - [LeetCode]
 6. Longest Substring with Same Letters after Replacement (medium) - [LeetCode]
 7. Longest Subarray with Ones after Replacement (medium) - [LeetCode]
+8. Minimum Window Substring (hard) - [LeetCode]
 
+----------------------
+Fast and Slow pointer:
+----------------------
+1. 
